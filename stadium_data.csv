@@ -1,37 +1,37 @@
-home team,park_id,capacity
-Baltimore Orioles,Camden Yards,"45,971"
-Boston Red Sox,Fenway Park,"37,731"
-Chicago White Sox,US Cellular Field,"40,615"
-Cleveland Indians,Progressive Field,"35,225"
-Detroit Tigers,Comerica Park,"41,083"
-Houston Astros,Minute Maid Park,"41,168"
-Kansas City Royals,Kauffman Stadium,"37,903"
-Los Angeles Angels,Angel Stadium,"45,050"
-Minnesota Twins,Metrodome,"55,000"
-Minnesota Twins,Target Field,"38,544"
-New York Yankees,Old Yankee Stadium,"56,937"
-New York Yankees,New Yankee Stadium,"50,287"
-Oakland Athletics,Oakland Coliseum,"47,170"
-Seattle Mariners,Safeco Field,"47,943"
-Tampa Bay Rays,Tropicana Field,"42,735"
-Texas Rangers,Globe Life Park,"48,114"
-Toronto Blue Jays,Rogers Centre,"49,282"
-Arizona Diamondbacks,Chase Field,"48,686"
-Atlanta Braves,Turner Field,"49,586"
-Chicago Cubs,Wrigley Field,"41,072"
-Cincinnati Reds,Great American Ball Park,"42,319"
-Colorado Rockies,Coors Field,"50,144"
-Los Angeles Dodgers,Dodger Stadium,"56,000"
-Miami Marlins,Sun Life Stadium,"47,662"
-Miami Marlins,Marlins Park,"36,742"
-Milwaukee Brewers,Miller Park,"41,900"
-New York Mets,Shea Stadium,"57,333"
-New York Mets,Citi Field,"41,922"
-Philadelphia Phillies,Citizens Bank Park,"43,651"
-Pittsburgh Pirates,PNC Park,"38,362"
-San Diego Padres,Petco Park,"42,445"
-San Francisco Giants,AT&T Park,"41,915"
-St. Louis Cardinals,Busch Stadium II,"50,345"
-St. Louis Cardinals,Busch Stadium III,"45,494"
-Washington Nationals,RFK Stadium,"45,596"
-Washington Nationals,Nationals Park,"41,339"
+home team,park_id,capacity,,
+Orioles,Camden Yards,"45,971",,
+Red Sox,Fenway Park,"37,731",,
+White Sox,US Cellular Field,"40,615",,
+Indians,Progressive Field,"35,225",,
+Tigers,Comerica Park,"41,083",,
+Astros,Minute Maid Park,"41,168",,
+Royals,Kauffman Stadium,"37,903",,
+Angels,Angel Stadium,"45,050",,
+Twins,Metrodome,"55,000",,
+Twins,Target Field,"38,544",,
+Yankees,Old Yankee Stadium,"56,937",,
+Yankees,New Yankee Stadium,"50,287",,
+Athletics,Oakland Coliseum,"47,170",,
+Mariners,Safeco Field,"47,943",,
+Rays,Tropicana Field,"42,735",,
+Rangers,Globe Life Park,"48,114",,
+Blue Jays,Rogers Centre,"49,282",,
+Diamondbacks,Chase Field,"48,686",,
+Braves,Turner Field,"49,586",,
+Cubs,Wrigley Field,"41,072",,
+Reds,Great American Ball Park,"42,319",,
+Rockies,Coors Field,"50,144",,
+Dodgers,Dodger Stadium,"56,000",,
+Marlins,Sun Life Stadium,"47,662",,
+Marlins,Marlins Park,"36,742",,
+Brewers,Miller Park,"41,900",,
+Mets,Shea Stadium,"57,333",,
+Mets,Citi Field,"41,922",,
+Phillies,Citizens Bank Park,"43,651",,
+Pirates,PNC Park,"38,362",,
+Padres,Petco Park,"42,445",,
+Giants,AT&T Park,"41,915",,
+Cardinals,Busch Stadium II,"50,345",,
+Cardinals,Busch Stadium III,"45,494",,
+Nationals,RFK Stadium,"45,596",,
+Nationals,Nationals Park,"41,339",,
