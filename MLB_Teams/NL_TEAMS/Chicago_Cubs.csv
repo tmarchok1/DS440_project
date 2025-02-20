@@ -1,3 +1,6 @@
+latitude,longitude,elevation,utc_offset_seconds,timezone,timezone_abbreviation,,,
+41.933216,-87.645355,187,-21600,America/Chicago,GMT-6,,,
+,,,,,,,,
 time,temperature_2m (°F),relative_humidity_2m (%),dew_point_2m (°F),precipitation (mm),rain (mm),snowfall (cm),cloud_cover (%),wind_speed_10m (mp/h)
 2005-04-03T00:00,35.1,76,28.3,0,0,0,0,5.4
 2005-04-03T01:00,34.8,78,28.7,0,0,0,0,5.6
