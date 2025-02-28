@@ -1,0 +1,391 @@
+Team,Year,Wins,MadePlayoffs,DivisionWinner
+Yankees,2005,95,1,1
+Red Sox,2005,95,1,0
+Blue Jays,2005,80,0,0
+Orioles,2005,74,0,0
+Rays,2005,67,0,0
+White Sox,2005,99,1,1
+Indians,2005,93,0,0
+Twins,2005,83,0,0
+Tigers,2005,71,0,0
+Royals,2005,56,0,0
+Angels,2005,95,1,1
+Athletics,2005,88,0,0
+Rangers,2005,79,0,0
+Mariners,2005,69,0,0
+Braves,2005,90,1,1
+Phillies,2005,88,0,0
+Marlins,2005,83,0,0
+Mets,2005,83,0,0
+Nationals,2005,81,0,0
+Cardinals,2005,100,1,1
+Astros,2005,89,1,0
+Brewers,2005,81,0,0
+Cubs,2005,79,0,0
+Reds,2005,73,0,0
+Pirates,2005,67,0,0
+Padres,2005,82,1,1
+Diamondbacks,2005,77,0,0
+Giants,2005,75,0,0
+Dodgers,2005,71,0,0
+Rockies,2005,67,0,0
+Yankees,2006,97,1,1
+Red Sox,2006,86,0,0
+Blue Jays,2006,87,0,0
+Orioles,2006,70,0,0
+Rays,2006,61,0,0
+White Sox,2006,90,0,0
+Indians,2006,78,0,0
+Twins,2006,96,1,1
+Tigers,2006,95,1,0
+Royals,2006,62,0,0
+Angels,2006,89,0,0
+Athletics,2006,93,1,1
+Rangers,2006,80,0,0
+Mariners,2006,78,0,0
+Braves,2006,79,0,0
+Phillies,2006,85,0,0
+Marlins,2006,78,0,0
+Mets,2006,97,1,1
+Nationals,2006,71,0,0
+Cardinals,2006,83,1,1
+Astros,2006,82,0,0
+Brewers,2006,75,0,0
+Cubs,2006,66,0,0
+Reds,2006,80,0,0
+Pirates,2006,67,0,0
+Padres,2006,88,1,0
+Diamondbacks,2006,76,0,0
+Giants,2006,76,0,0
+Dodgers,2006,88,1,1
+Rockies,2006,76,0,0
+Yankees,2007,94,1,0
+Red Sox,2007,96,1,1
+Blue Jays,2007,83,0,0
+Orioles,2007,69,0,0
+Rays,2007,66,0,0
+White Sox,2007,72,0,0
+Indians,2007,96,1,1
+Twins,2007,79,0,0
+Tigers,2007,88,0,0
+Royals,2007,69,0,0
+Angels,2007,94,1,1
+Athletics,2007,76,0,0
+Rangers,2007,75,0,0
+Mariners,2007,88,0,0
+Braves,2007,84,0,0
+Phillies,2007,89,1,1
+Marlins,2007,71,0,0
+Mets,2007,88,0,0
+Nationals,2007,73,0,0
+Cardinals,2007,78,0,0
+Astros,2007,73,0,0
+Brewers,2007,83,0,0
+Cubs,2007,85,1,1
+Reds,2007,72,0,0
+Pirates,2007,68,0,0
+Padres,2007,89,0,0
+Diamondbacks,2007,90,1,1
+Giants,2007,71,0,0
+Dodgers,2007,82,0,0
+Rockies,2007,90,1,0
+Yankees,2008,89,0,0
+Red Sox,2008,95,1,0
+Blue Jays,2008,86,0,0
+Orioles,2008,68,0,0
+Rays,2008,97,1,1
+White Sox,2008,89,1,1
+Indians,2008,81,0,0
+Twins,2008,88,0,0
+Tigers,2008,74,0,0
+Royals,2008,75,0,0
+Angels,2008,100,1,1
+Athletics,2008,75,0,0
+Rangers,2008,79,0,0
+Mariners,2008,61,0,0
+Braves,2008,72,0,0
+Phillies,2008,92,1,1
+Marlins,2008,84,0,0
+Mets,2008,89,0,0
+Nationals,2008,59,0,0
+Cardinals,2008,86,0,0
+Astros,2008,86,0,0
+Brewers,2008,90,1,0
+Cubs,2008,97,1,1
+Reds,2008,74,0,0
+Pirates,2008,67,0,0
+Padres,2008,63,0,0
+Diamondbacks,2008,82,0,0
+Giants,2008,72,0,0
+Dodgers,2008,84,1,1
+Rockies,2008,74,0,0
+Yankees,2009,103,1,1
+Red Sox,2009,95,1,0
+Blue Jays,2009,75,0,0
+Orioles,2009,64,0,0
+Rays,2009,84,0,0
+White Sox,2009,79,0,0
+Indians,2009,65,0,0
+Twins,2009,87,1,1
+Tigers,2009,86,0,0
+Royals,2009,65,0,0
+Angels,2009,97,1,1
+Athletics,2009,75,0,0
+Rangers,2009,87,0,0
+Mariners,2009,85,0,0
+Braves,2009,86,0,0
+Phillies,2009,93,1,1
+Marlins,2009,87,0,0
+Mets,2009,70,0,0
+Nationals,2009,59,0,0
+Cardinals,2009,91,1,1
+Astros,2009,74,0,0
+Brewers,2009,80,0,0
+Cubs,2009,83,0,0
+Reds,2009,78,0,0
+Pirates,2009,62,0,0
+Padres,2009,75,0,0
+Diamondbacks,2009,70,0,0
+Giants,2009,88,0,0
+Dodgers,2009,95,1,1
+Rockies,2009,92,1,0
+Yankees,2010,95,1,0
+Red Sox,2010,89,0,0
+Blue Jays,2010,85,0,0
+Orioles,2010,66,0,0
+Rays,2010,96,1,1
+White Sox,2010,88,0,0
+Indians,2010,69,0,0
+Twins,2010,94,1,1
+Tigers,2010,81,0,0
+Royals,2010,67,0,0
+Angels,2010,80,0,0
+Athletics,2010,81,0,0
+Rangers,2010,90,1,1
+Mariners,2010,61,0,0
+Braves,2010,91,1,0
+Phillies,2010,97,1,1
+Marlins,2010,80,0,0
+Mets,2010,79,0,0
+Nationals,2010,69,0,0
+Cardinals,2010,86,0,0
+Astros,2010,76,0,0
+Brewers,2010,77,0,0
+Cubs,2010,75,0,0
+Reds,2010,91,1,1
+Pirates,2010,57,0,0
+Padres,2010,90,0,0
+Diamondbacks,2010,65,0,0
+Giants,2010,92,1,1
+Dodgers,2010,80,0,0
+Rockies,2010,83,0,0
+Yankees,2011,97,1,1
+Red Sox,2011,90,0,0
+Blue Jays,2011,81,0,0
+Orioles,2011,69,0,0
+Rays,2011,91,1,0
+White Sox,2011,79,0,0
+Indians,2011,80,0,0
+Twins,2011,63,0,0
+Tigers,2011,95,1,1
+Royals,2011,71,0,0
+Angels,2011,86,0,0
+Athletics,2011,74,0,0
+Rangers,2011,96,1,1
+Mariners,2011,67,0,0
+Braves,2011,89,0,0
+Phillies,2011,102,1,1
+Marlins,2011,72,0,0
+Mets,2011,77,0,0
+Nationals,2011,80,0,0
+Cardinals,2011,90,1,0
+Astros,2011,56,0,0
+Brewers,2011,96,1,1
+Cubs,2011,71,0,0
+Reds,2011,79,0,0
+Pirates,2011,72,0,0
+Padres,2011,71,0,0
+Diamondbacks,2011,94,1,1
+Giants,2011,86,0,0
+Dodgers,2011,82,0,0
+Rockies,2011,73,0,0
+Yankees,2012,95,1,1
+Red Sox,2012,69,0,0
+Blue Jays,2012,73,0,0
+Orioles,2012,93,1,0
+Rays,2012,90,0,0
+White Sox,2012,85,0,0
+Indians,2012,68,0,0
+Twins,2012,66,0,0
+Tigers,2012,88,1,1
+Royals,2012,72,0,0
+Angels,2012,89,0,0
+Athletics,2012,94,1,1
+Rangers,2012,93,1,0
+Mariners,2012,75,0,0
+Braves,2012,94,1,0
+Phillies,2012,81,0,0
+Marlins,2012,69,0,0
+Mets,2012,74,0,0
+Nationals,2012,98,1,1
+Cardinals,2012,88,1,0
+Astros,2012,55,0,0
+Brewers,2012,83,0,0
+Cubs,2012,61,0,0
+Reds,2012,97,1,1
+Pirates,2012,79,0,0
+Padres,2012,76,0,0
+Diamondbacks,2012,81,0,0
+Giants,2012,94,1,1
+Dodgers,2012,86,0,0
+Rockies,2012,64,0,0
+Yankees,2013,85,0,0
+Red Sox,2013,97,1,1
+Blue Jays,2013,74,0,0
+Orioles,2013,85,0,0
+Rays,2013,92,1,0
+White Sox,2013,63,0,0
+Indians,2013,92,1,0
+Twins,2013,66,0,0
+Tigers,2013,93,1,1
+Royals,2013,86,0,0
+Angels,2013,78,0,0
+Athletics,2013,96,1,1
+Rangers,2013,91,0,0
+Mariners,2013,71,0,0
+Braves,2013,96,1,1
+Phillies,2013,73,0,0
+Marlins,2013,62,0,0
+Mets,2013,74,0,0
+Nationals,2013,86,0,0
+Cardinals,2013,97,1,1
+Astros,2013,51,0,0
+Brewers,2013,74,0,0
+Cubs,2013,66,0,0
+Reds,2013,90,1,0
+Pirates,2013,94,1,0
+Padres,2013,76,0,0
+Diamondbacks,2013,81,0,0
+Giants,2013,76,0,0
+Dodgers,2013,92,1,1
+Rockies,2013,74,0,0
+Yankees,2014,84,0,0
+Red Sox,2014,71,0,0
+Blue Jays,2014,83,0,0
+Orioles,2014,96,1,1
+Rays,2014,77,0,0
+White Sox,2014,73,0,0
+Indians,2014,85,0,0
+Twins,2014,70,0,0
+Tigers,2014,90,1,1
+Royals,2014,89,1,0
+Angels,2014,98,1,1
+Athletics,2014,88,1,0
+Rangers,2014,67,0,0
+Mariners,2014,87,0,0
+Braves,2014,79,0,0
+Phillies,2014,73,0,0
+Marlins,2014,77,0,0
+Mets,2014,79,0,0
+Nationals,2014,96,1,1
+Cardinals,2014,90,1,1
+Astros,2014,70,0,0
+Brewers,2014,82,0,0
+Cubs,2014,73,0,0
+Reds,2014,76,0,0
+Pirates,2014,88,1,0
+Padres,2014,77,0,0
+Diamondbacks,2014,64,0,0
+Giants,2014,88,1,0
+Dodgers,2014,94,1,1
+Rockies,2014,66,0,0
+Yankees,2015,87,1,0
+Red Sox,2015,78,0,0
+Blue Jays,2015,93,1,1
+Orioles,2015,81,0,0
+Rays,2015,80,0,0
+White Sox,2015,76,0,0
+Indians,2015,81,0,0
+Twins,2015,83,0,0
+Tigers,2015,74,0,0
+Royals,2015,95,1,1
+Angels,2015,85,0,0
+Athletics,2015,68,0,0
+Rangers,2015,88,1,1
+Mariners,2015,76,0,0
+Braves,2015,67,0,0
+Phillies,2015,63,0,0
+Marlins,2015,71,0,0
+Mets,2015,90,1,1
+Nationals,2015,83,0,0
+Cardinals,2015,100,1,1
+Astros,2015,86,1,0
+Brewers,2015,68,0,0
+Cubs,2015,97,1,0
+Reds,2015,64,0,0
+Pirates,2015,98,1,0
+Padres,2015,74,0,0
+Diamondbacks,2015,79,0,0
+Giants,2015,84,0,0
+Dodgers,2015,92,1,1
+Rockies,2015,68,0,0
+Yankees,2016,84,0,0
+Red Sox,2016,93,1,1
+Blue Jays,2016,89,1,0
+Orioles,2016,89,1,0
+Rays,2016,68,0,0
+White Sox,2016,78,0,0
+Indians,2016,94,1,1
+Twins,2016,59,0,0
+Tigers,2016,86,0,0
+Royals,2016,81,0,0
+Angels,2016,74,0,0
+Athletics,2016,69,0,0
+Rangers,2016,95,1,1
+Mariners,2016,86,0,0
+Braves,2016,68,0,0
+Phillies,2016,71,0,0
+Marlins,2016,79,0,0
+Mets,2016,87,1,0
+Nationals,2016,95,1,1
+Cardinals,2016,86,0,0
+Astros,2016,84,0,0
+Brewers,2016,73,0,0
+Cubs,2016,103,1,1
+Reds,2016,68,0,0
+Pirates,2016,78,0,0
+Padres,2016,68,0,0
+Diamondbacks,2016,69,0,0
+Giants,2016,87,1,0
+Dodgers,2016,91,1,1
+Rockies,2016,75,0,0
+Yankees,2004,101,1,1
+Red Sox,2004,98,1,0
+Blue Jays,2004,67,0,0
+Orioles,2004,78,0,0
+Rays,2004,70,0,0
+White Sox,2004,83,0,0
+Indians,2004,80,0,0
+Twins,2004,92,1,1
+Tigers,2004,72,0,0
+Royals,2004,58,0,0
+Angels,2004,92,1,1
+Athletics,2004,91,0,0
+Rangers,2004,89,0,0
+Mariners,2004,63,0,0
+Braves,2004,96,1,1
+Phillies,2004,86,0,0
+Marlins,2004,83,0,0
+Mets,2004,71,0,0
+Nationals,2004,67,0,0
+Cardinals,2004,105,1,1
+Astros,2004,92,1,0
+Brewers,2004,67,0,0
+Cubs,2004,89,0,0
+Reds,2004,76,0,0
+Pirates,2004,72,0,0
+Padres,2004,87,0,0
+Diamondbacks,2004,51,0,0
+Giants,2004,91,0,0
+Dodgers,2004,93,1,1
+Rockies,2004,68,0,0
