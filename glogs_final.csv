@@ -1,4 +1,4 @@
-date,year,week,day_of_week,v_name,h_name,night_game,park_id,temp,precip,capacity,prev_year_wins,made_playoffs,won_division,InstagramFollowers,CityPopulation,attendance
+date,year,week,day_of_week,v_name,h_name,day_night,park_id,temp,precip,capacity,prev_year_wins,made_playoffs,won_division,InstagramFollowers,CityPopulation,attendance
 2005-04-03,2005,1,Sun,BOS,NYY,1,Old Yankee Stadium,51.7,0.587,56937.0,101,1,1,3900000,19940274,54818.0
 2005-04-04,2005,1,Mon,OAK,BAL,0,Camden Yards,60.7,0.0,45971.0,78,0,0,746000,2859024,48271.0
 2005-04-04,2005,1,Mon,CLE,CHW,0,US Cellular Field,56.2,0.0,40615.0,83,0,0,664000,9408576,38141.0
